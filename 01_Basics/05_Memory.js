@@ -11,8 +11,8 @@ let myRealName = myname    //It's important to note that since strings are primi
 
 myRealName = "Anjalisingh"
 
-console.log(myname);       // "Sheel"
-console.log(myRealName);   // "SheelGanvir"
+console.log(myname);       // "Anjali"
+console.log(myRealName);   // "Anjalisingh"
 
 //_____________________________________________________
 
