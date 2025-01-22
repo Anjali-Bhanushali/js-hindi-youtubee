@@ -2,7 +2,7 @@
 
 //alert(3+3)    //we are using node.js, not browser
 
-let name = "Sheel"
+let name = "Anjali"
 let age = 20
 let isLoggedIn = false
 
@@ -67,6 +67,6 @@ const bigNumber = 34567897815566558n    //bigInt datatype
 
     Function:
     const myFunction = function(){
-        console.log("Hello Sheel")
+        console.log("Hello Anjali")
     }
 */
