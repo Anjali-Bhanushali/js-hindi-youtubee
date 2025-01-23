@@ -19,7 +19,7 @@
 
 //=== strict check not only checks yhe value but also checks the datatype of the value
 
-console.log("2" === 2);
-console.log("2" == 2);
+// console.log("2" === 2);
+// console.log("2" == 2);
 
 
