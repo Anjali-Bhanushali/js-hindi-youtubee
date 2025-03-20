@@ -38,6 +38,13 @@ console.log(typeof null);   //object
 
 /************************* TYPES OF DATATYPES ****************************/
 
+// JavaScript is a dynamic language and not static, 
+// which means that variables can hold values of 
+// different types during runtime.
+//  Unlike languages such as Typescript or Java,
+//   you don't need to declare the data type of a
+//    variable explicitly.
+
 /*
     1. Primitive
         7 types: String, Number, Boolean, Null, Undefined, Symbol, BigInt
@@ -49,11 +56,14 @@ console.log(typeof null);   //object
 const id = Symbol('123')
 const anotherId = Symbol('123')
 // In JavaScript, Symbol values are unique, even if they have the same description
-console.log(id==anotherId);     //false
+console.log(id===anotherId);     //false
 
 const bigNumber = 34567897815566558n    //bigInt datatype
 
 /************************ Array, Objects, Functions **************************/
+
+//datatype of array object  is object except function whose datatype is function
+
 
 /* 
     Array:
